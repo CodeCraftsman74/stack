@@ -1,0 +1,11 @@
+/* Content styling */
+.content-body {
+  background-color: aqua;
+  color: black;
+  text-align: center;
+  font-size: 18px;
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 10px;
+  width: 80%;
+}

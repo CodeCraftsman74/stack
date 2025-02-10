@@ -1,0 +1,27 @@
+/* Header styling */
+header {
+  background-color: blue;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+/* Footer styling */
+footer {
+  background-color: blueviolet;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+/* Content styling */
+.content-body {
+  background-color: aqua;
+  color: black;
+  text-align: center;
+  font-size: 18px;
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 10px;
+  width: 80%;
+}
